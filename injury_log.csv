@@ -1,0 +1,9 @@
+log_id,bowler,display_name,date_reported,status,injury_type,body_part,expected_return_date,notes,source
+1,MEK Hussey,Michael Edward Killeen Hussey,2026-07-27,Managed,Ligament sprain,Groin,2026-09-03,Demo/seed record for presentation purposes.,demo
+2,SEA Ruck,Sian Elizabeth Ansley Ruck,2026-06-17,Managed,Muscle strain,Lower back,2026-08-28,Demo/seed record for presentation purposes.,demo
+3,Zeeshan Abbas,Zeeshan Abbas,2026-06-12,Managed,Stress fracture,Lower back,2026-08-15,Demo/seed record for presentation purposes.,demo
+4,SACA King,Stacy-Ann Camille-Ann King,2026-07-10,Managed,Impact injury,Hamstring,2026-08-20,Demo/seed record for presentation purposes.,demo
+5,Usman Khan,Usman Riaz Khan,2026-07-25,Rehab,Ligament sprain,Hamstring,2026-08-09,Demo/seed record for presentation purposes.,demo
+6,T Nightingale,Thomas William Nightingale,2026-07-09,Rehab,Muscle strain,Ankle,2026-08-13,Demo/seed record for presentation purposes.,demo
+7,M Kapp,Marizanne Kapp,2026-06-07,Managed,Impact injury,Groin,2026-09-08,Demo/seed record for presentation purposes.,demo
+8,NND de Silva,Nishshanka Nilakshika Damayanthi Silva,2026-06-25,Rehab,Soreness / fatigue,Elbow,2026-09-08,Demo/seed record for presentation purposes.,demo
